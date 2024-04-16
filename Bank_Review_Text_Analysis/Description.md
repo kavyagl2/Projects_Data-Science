@@ -1,4 +1,5 @@
 Project Description: The project aims to analyze customer reviews on banks to derive insights into customer sentiments, preferences, and areas of improvement. By leveraging natural language processing (NLP) techniques, the project extracts valuable information from textual data, including topics, key phrases, and sentiment analysis. Additionally, the project employs topic modelling algorithms to categorize reviews into meaningful topics, providing a comprehensive understanding of customer feedback.
+
 Core Technologies Utilized:
 -	Seaborn: Seaborn complements Matplotlib by providing a high-level interface for creating attractive statistical graphics.
 -	Hugging Face Datasets Library: This library is utilized to access the dataset containing customer reviews on banks.
