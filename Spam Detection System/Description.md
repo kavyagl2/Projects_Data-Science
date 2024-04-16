@@ -1,4 +1,4 @@
-Spam Detection System: Machine Learning Approach with Python and NLTK (January 2024) 
+Spam Detection System: Machine Learning Approach with Python and NLTK
 
 Project Description: The project focuses on developing a spam detection system using machine learning techniques. It aims to distinguish between spam and non-spam (ham) messages effectively. By utilizing natural language processing (NLP) and classification algorithms, the system can classify incoming messages as either spam or ham, contributing to improved email filtering and user experience.
 
